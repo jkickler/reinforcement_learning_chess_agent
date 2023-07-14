@@ -26,3 +26,4 @@ For the agent and to play against Stockfish following libraries are needed:
 pip install stockfish
 pip install torch
 ```
+You can download the Stockfish agent here: https://stockfishchess.org/
